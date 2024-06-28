@@ -30,7 +30,7 @@ namespace SafePort.MVVM.View
                         Process.Start("https://www.youtube.com/watch?v=PzP8mw7JUzI&t=1969s");
                         break;
                     case " This Project ":
-                        Process.Start("https://github.com/NaddSafety/SafePort");
+                        Process.Start("https://github.com/Ibrahim-Hammad88/SafePort-SafePort.git");
                         break;
                 }
             }
